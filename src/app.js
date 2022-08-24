@@ -20,5 +20,5 @@ require('./routes')(app)
 
 let port = 8081;
 app.listen(port, function(){
-    console.log('server running on ' + port);
+    console.log('running running on ' + port);
 })
